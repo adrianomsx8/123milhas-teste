@@ -21,7 +21,7 @@ $ cd 123milhas-teste
 
 $ composer install
 
-##Iniciar o servidor
+## Iniciar o servidor
 
 $ php artisa serve
 
