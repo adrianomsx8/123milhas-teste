@@ -13,25 +13,19 @@
 
 PHP 8.1.1
 
-## Passo 1
-
-Realizar o clone do projeto
+## Realizar o clone do projeto
 git clone https://github.com/adrianomsx8/123milhas-teste
 
-## Passo 2
-
-Baixar as depencias 
+## Baixar as depencias
 $ cd 123milhas-teste
+
 $ composer install
 
-## Passo 3
+##Iniciar o servidor
 
-Iniciar o servidor
 $ php artisa serve
 
-## Passo 4
-
-Acessar via navegador
+## Acessar via navegador
 
 http://localhost:8000/api
 
